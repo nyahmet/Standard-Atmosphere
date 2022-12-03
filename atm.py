@@ -122,7 +122,7 @@ with open(fname, 'w',newline='') as csvfile:
     csvwriter = csv.writer(csvfile) 
     csvwriter.writerow(fields)
     csvwriter.writerows(rows)
-    s
+    
     
     
 
